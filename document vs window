@@ -1,0 +1,9 @@
+Document:
+	The document object is used to web page is loaded in the browser. 
+  By accessing the document object, we can access the element in the HTML page.
+  With help of document objects
+
+Window Object:
+The window object is the topmost object of the DOM. 
+It frame that displays the contents of the webpage. 
+Whenever a window shows on the screen to display the contents of the document, the window object is created.
